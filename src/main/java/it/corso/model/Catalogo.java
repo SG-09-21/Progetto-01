@@ -11,6 +11,8 @@ public class Catalogo {
 	private String memoria;
 	private String prezzo;
 	
+	
+	
 	public String getSistemaOp() {
 		return sistemaOp;
 	}
